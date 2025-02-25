@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20986" hassounds="0" start="node1" appversion="7.1.8">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" height="960" leveltilesize="510" width="1280" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" cylinder="1" flat="1" overlap="1">
+      <level height="960" predecode="0" width="1280" preload="0"/>
+      <level height="480" predecode="0" width="640" preload="0"/>
+      <level height="240" predecode="1" width="320" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="500"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" pan="360" tilt="90" scaletofit="0" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata source="" longitude="" description="由伊祐．噶照創立的品牌「Dipong（弟朋）」，在阿美族語為「鳥窩」之意，代表著部落的溫暖與庇護。&#xa;&#xa;將自身創作經歷比擬為小鳥築窩，從部落傳統文化、祭典歌謠、土地故事中汲取創作養份，一點一點構築藝術創作夢想，作品多使用漂流木結合大理石、現成物等環保素材，承襲傳統文化中與自然共存的哲學 ，表現部落生活美學。 &#xa;&#xa;Dipong專注於融合部落生活美學與自然素材的設計，創作出獨特的家居藝術品。&#xa;&#xa;" info="" datetime="" nodeid="node1" customnodeid="" copyright="" heading="0" title="Dipong 弟朋 伊祐、噶照" author="" comment="" tags="-Dipong" latitude=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label enabled="1" backgroundcolor="0xffffff" height="20" background="1" backgroundalpha="1" width="180" border="1" borderradius="1" textalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomspeed="2" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" zoomin="0" zoomfov="40" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomout="0" delay="none"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" invertwheel="0" zoomcentercursor="1" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" simulatemass="1" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" height="1024" leveltilesize="510" width="1024" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" cylinder="1" flat="1" overlap="1">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="500"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" pan="360" tilt="90" scaletofit="0" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata source="" longitude="" description="由伊祐．噶照創立的品牌「Dipong（弟朋）」，在阿美族語為「鳥窩」之意，代表著部落的溫暖與庇護。&#xa;&#xa;將自身創作經歷比擬為小鳥築窩，從部落傳統文化、祭典歌謠、土地故事中汲取創作養份，一點一點構築藝術創作夢想，作品多使用漂流木結合大理石、現成物等環保素材，承襲傳統文化中與自然共存的哲學 ，表現部落生活美學。 &#xa;&#xa;Dipong專注於融合部落生活美學與自然素材的設計，創作出獨特的家居藝術品。&#xa;&#xa;" info="" datetime="" nodeid="node2" customnodeid="" copyright="" heading="0" title="Dipong 弟朋 伊祐、噶照" author="" comment="" tags="-Dipong" latitude=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label enabled="1" backgroundcolor="0xffffff" height="20" background="1" backgroundalpha="1" width="180" border="1" borderradius="1" textalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomspeed="2" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" zoomin="0" zoomfov="40" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomout="0" delay="none"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" invertwheel="0" zoomcentercursor="1" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" simulatemass="1" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" height="960" leveltilesize="510" width="1280" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" cylinder="1" flat="1" overlap="1">
+      <level height="960" predecode="0" width="1280" preload="0"/>
+      <level height="480" predecode="0" width="640" preload="0"/>
+      <level height="240" predecode="1" width="320" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="500"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" pan="360" tilt="90" scaletofit="0" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata source="" longitude="" description="由伊祐．噶照創立的品牌「Dipong（弟朋）」，在阿美族語為「鳥窩」之意，代表著部落的溫暖與庇護。&#xa;&#xa;將自身創作經歷比擬為小鳥築窩，從部落傳統文化、祭典歌謠、土地故事中汲取創作養份，一點一點構築藝術創作夢想，作品多使用漂流木結合大理石、現成物等環保素材，承襲傳統文化中與自然共存的哲學 ，表現部落生活美學。 &#xa;&#xa;Dipong專注於融合部落生活美學與自然素材的設計，創作出獨特的家居藝術品。&#xa;&#xa;" info="" datetime="" nodeid="node3" customnodeid="" copyright="" heading="0" title="Dipong 弟朋 伊祐、噶照" author="" comment="" tags="-Dipong" latitude=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label enabled="1" backgroundcolor="0xffffff" height="20" background="1" backgroundalpha="1" width="180" border="1" borderradius="1" textalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomspeed="2" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" zoomin="0" zoomfov="40" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomout="0" delay="none"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" invertwheel="0" zoomcentercursor="1" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" simulatemass="1" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" height="1024" leveltilesize="510" width="1024" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" cylinder="1" flat="1" overlap="1">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="500"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" pan="360" tilt="90" scaletofit="0" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata source="" longitude="" description="由伊祐．噶照創立的品牌「Dipong（弟朋）」，在阿美族語為「鳥窩」之意，代表著部落的溫暖與庇護。&#xa;&#xa;將自身創作經歷比擬為小鳥築窩，從部落傳統文化、祭典歌謠、土地故事中汲取創作養份，一點一點構築藝術創作夢想，作品多使用漂流木結合大理石、現成物等環保素材，承襲傳統文化中與自然共存的哲學 ，表現部落生活美學。 &#xa;&#xa;Dipong專注於融合部落生活美學與自然素材的設計，創作出獨特的家居藝術品。&#xa;&#xa;" info="" datetime="" nodeid="node4" customnodeid="" copyright="" heading="0" title="Dipong 弟朋 伊祐、噶照" author="" comment="" tags="-Dipong" latitude=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label enabled="1" backgroundcolor="0xffffff" height="20" background="1" backgroundalpha="1" width="180" border="1" borderradius="1" textalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomspeed="2" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" zoomin="0" zoomfov="40" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomout="0" delay="none"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" invertwheel="0" zoomcentercursor="1" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" simulatemass="1" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" title="Dipong 弟朋有限公司 伊祐、噶照" author="" comment="" tags="" description="Dipong iyokacaw"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

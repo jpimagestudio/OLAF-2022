@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.8" hassounds="0" apprev="20986" start="node1">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" height="1024" cylinder="1" levelingpitch="0" overlap="1" flat="1" leveltilesize="510" width="1024" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" tilt="90" fov="140" scaletofit="0"/>
+    </view>
+    <userdata datetime="" longitude="" copyright="" latitude="" customnodeid="" source="" heading="0" nodeid="node1" info="" tags="-" author="" description="嚴玉英女士為噶瑪蘭香蕉絲織布工藝復振的第二代工藝師，完整參與香蕉絲織布工藝復振的歷程，保存了瀕臨失傳的傳統織布文化知識，獲得「人間國寶」的殊榮為實至名歸。" title="花蓮縣噶瑪蘭族發展協會 嚴玉英" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" enabled="1" textcolor="0x000000" height="20" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff" textalpha="1" background="1" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" delay="none" zoomout="0" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" zoomcentercursor="1" invertwheel="0" invertcontrol="1" contextvr="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" lockedwheel="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" height="960" cylinder="1" levelingpitch="0" overlap="1" flat="1" leveltilesize="510" width="1280" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="1280" height="960" preload="0"/>
+      <level predecode="0" width="640" height="480" preload="0"/>
+      <level predecode="1" width="320" height="240" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" tilt="90" fov="140" scaletofit="0"/>
+    </view>
+    <userdata datetime="" longitude="" copyright="" latitude="" customnodeid="" source="" heading="0" nodeid="node2" info="" tags="-" author="" description="嚴玉英女士為噶瑪蘭香蕉絲織布工藝復振的第二代工藝師，完整參與香蕉絲織布工藝復振的歷程，保存了瀕臨失傳的傳統織布文化知識，獲得「人間國寶」的殊榮為實至名歸。" title="花蓮縣噶瑪蘭族發展協會 嚴玉英" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" enabled="1" textcolor="0x000000" height="20" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff" textalpha="1" background="1" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" delay="none" zoomout="0" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" zoomcentercursor="1" invertwheel="0" invertcontrol="1" contextvr="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" lockedwheel="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" height="960" cylinder="1" levelingpitch="0" overlap="1" flat="1" leveltilesize="510" width="1280" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="1280" height="960" preload="0"/>
+      <level predecode="0" width="640" height="480" preload="0"/>
+      <level predecode="1" width="320" height="240" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" tilt="90" fov="140" scaletofit="0"/>
+    </view>
+    <userdata datetime="" longitude="" copyright="" latitude="" customnodeid="" source="" heading="0" nodeid="node3" info="" tags="-" author="" description="嚴玉英女士為噶瑪蘭香蕉絲織布工藝復振的第二代工藝師，完整參與香蕉絲織布工藝復振的歷程，保存了瀕臨失傳的傳統織布文化知識，獲得「人間國寶」的殊榮為實至名歸。" title="花蓮縣噶瑪蘭族發展協會 嚴玉英" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" enabled="1" textcolor="0x000000" height="20" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff" textalpha="1" background="1" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" delay="none" zoomout="0" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" zoomcentercursor="1" invertwheel="0" invertcontrol="1" contextvr="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" lockedwheel="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" height="1024" cylinder="1" levelingpitch="0" overlap="1" flat="1" leveltilesize="510" width="1024" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" tilt="90" fov="140" scaletofit="0"/>
+    </view>
+    <userdata datetime="" longitude="" copyright="" latitude="" customnodeid="" source="" heading="0" nodeid="node4" info="" tags="-" author="" description="嚴玉英女士為噶瑪蘭香蕉絲織布工藝復振的第二代工藝師，完整參與香蕉絲織布工藝復振的歷程，保存了瀕臨失傳的傳統織布文化知識，獲得「人間國寶」的殊榮為實至名歸。" title="花蓮縣噶瑪蘭族發展協會 嚴玉英" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" enabled="1" textcolor="0x000000" height="20" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff" textalpha="1" background="1" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" delay="none" zoomout="0" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" zoomcentercursor="1" invertwheel="0" invertcontrol="1" contextvr="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" lockedwheel="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" height="960" cylinder="1" levelingpitch="0" overlap="1" flat="1" leveltilesize="510" width="1280" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="1280" height="960" preload="0"/>
+      <level predecode="0" width="640" height="480" preload="0"/>
+      <level predecode="1" width="320" height="240" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" tilt="90" fov="140" scaletofit="0"/>
+    </view>
+    <userdata datetime="" longitude="" copyright="" latitude="" customnodeid="" source="" heading="0" nodeid="node5" info="" tags="-" author="" description="嚴玉英女士為噶瑪蘭香蕉絲織布工藝復振的第二代工藝師，完整參與香蕉絲織布工藝復振的歷程，保存了瀕臨失傳的傳統織布文化知識，獲得「人間國寶」的殊榮為實至名歸。" title="花蓮縣噶瑪蘭族發展協會 嚴玉英" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" enabled="1" textcolor="0x000000" height="20" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff" textalpha="1" background="1" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" delay="none" zoomout="0" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" zoomcentercursor="1" invertwheel="0" invertcontrol="1" contextvr="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" lockedwheel="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" height="960" cylinder="1" levelingpitch="0" overlap="1" flat="1" leveltilesize="510" width="1280" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="1280" height="960" preload="0"/>
+      <level predecode="0" width="640" height="480" preload="0"/>
+      <level predecode="1" width="320" height="240" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" tilt="90" fov="140" scaletofit="0"/>
+    </view>
+    <userdata datetime="" longitude="" copyright="" latitude="" customnodeid="" source="" heading="0" nodeid="node6" info="" tags="-" author="" description="嚴玉英女士為噶瑪蘭香蕉絲織布工藝復振的第二代工藝師，完整參與香蕉絲織布工藝復振的歷程，保存了瀕臨失傳的傳統織布文化知識，獲得「人間國寶」的殊榮為實至名歸。" title="花蓮縣噶瑪蘭族發展協會 嚴玉英" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" enabled="1" textcolor="0x000000" height="20" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff" textalpha="1" background="1" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" delay="none" zoomout="0" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" zoomcentercursor="1" invertwheel="0" invertcontrol="1" contextvr="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" lockedwheel="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" height="960" cylinder="1" levelingpitch="0" overlap="1" flat="1" leveltilesize="510" width="1280" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="1280" height="960" preload="0"/>
+      <level predecode="0" width="640" height="480" preload="0"/>
+      <level predecode="1" width="320" height="240" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" tilt="90" fov="140" scaletofit="0"/>
+    </view>
+    <userdata datetime="" longitude="" copyright="" latitude="" customnodeid="" source="" heading="0" nodeid="node7" info="" tags="-" author="" description="嚴玉英女士為噶瑪蘭香蕉絲織布工藝復振的第二代工藝師，完整參與香蕉絲織布工藝復振的歷程，保存了瀕臨失傳的傳統織布文化知識，獲得「人間國寶」的殊榮為實至名歸。" title="花蓮縣噶瑪蘭族發展協會 嚴玉英" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" enabled="1" textcolor="0x000000" height="20" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff" textalpha="1" background="1" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" delay="none" zoomout="0" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" zoomcentercursor="1" invertwheel="0" invertcontrol="1" contextvr="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" lockedwheel="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" author="" description="" copyright="" title="花蓮縣噶瑪蘭族發展協會 嚴玉英" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

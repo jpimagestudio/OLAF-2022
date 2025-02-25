@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" hassounds="0" apprev="20986" appversion="7.1.8">
+  <panorama id="node1">
+    <input overlap="1" flat="1" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1280" leveltilesize="510" height="842" levelbias="0.400" cylinder="1" levelbiashidpi="1.000" levelingroll="0">
+      <level preload="0" predecode="0" width="1280" height="842"/>
+      <level preload="0" predecode="0" width="640" height="421"/>
+      <level preload="1" predecode="1" width="320" height="210"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" tilt="90" scaletofit="0" fovfisheye="360" pan="360" fov="140"/>
+    </view>
+    <userdata tags="" customnodeid="" comment="" info="" author="" heading="0" source="" latitude="" copyright="" description="洪啟榮老師透過漆藝將排灣族生活美感的精神再次帶回到日常生活之中。採取對環境最友善的態度，「依時而作」的精神，融入自然工藝、漆作、細木器皿追求著當代排灣的線條，展現文化的優雅與尊貴。&#xa;&#xa;橘色月亮文化工作室主要使用木材、石材、金屬、皮革、生漆等自然素材，創作出結合傳統與現代設計的生活用品，如木製器皿、家具、飾品等。在製作過程中，遵循自然循環的法則，依時而作，充分利用材料，減少浪費。&#xa;&#xa;此外，工作室積極推廣部落工藝教育，透過成立工藝教室，傳承家族圖紋和傳統技藝，並與設計師合作，將傳統元素融入現代設計，開發出具有文化意涵的產品。 他們的作品曾多次參加展覽與比賽，獲得廣泛認可。&#xa;&#xa;" title="橘色月亮文化工作室" datetime="" longitude="" nodeid="node1"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label textalpha="1" width="180" enabled="1" height="20" borderalpha="1" wordwrap="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" background="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" delay="none" zoomout="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomspeed="2" zoomafterinfov="140" zoomfov="40" type="crossdissolve" zoomin="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboard="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" speedwheel="1" simulatemass="1" lockedwheel="0" sensitivity="8" hideabout="0" contextvr="1" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" flat="1" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1280" leveltilesize="510" height="960" levelbias="0.400" cylinder="1" levelbiashidpi="1.000" levelingroll="0">
+      <level preload="0" predecode="0" width="1280" height="960"/>
+      <level preload="0" predecode="0" width="640" height="480"/>
+      <level preload="1" predecode="1" width="320" height="240"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" tilt="90" scaletofit="0" fovfisheye="360" pan="360" fov="140"/>
+    </view>
+    <userdata tags="" customnodeid="" comment="" info="" author="" heading="0" source="" latitude="" copyright="" description="洪啟榮老師透過漆藝將排灣族生活美感的精神再次帶回到日常生活之中。採取對環境最友善的態度，「依時而作」的精神，融入自然工藝、漆作、細木器皿追求著當代排灣的線條，展現文化的優雅與尊貴。&#xa;&#xa;橘色月亮文化工作室主要使用木材、石材、金屬、皮革、生漆等自然素材，創作出結合傳統與現代設計的生活用品，如木製器皿、家具、飾品等。在製作過程中，遵循自然循環的法則，依時而作，充分利用材料，減少浪費。&#xa;&#xa;此外，工作室積極推廣部落工藝教育，透過成立工藝教室，傳承家族圖紋和傳統技藝，並與設計師合作，將傳統元素融入現代設計，開發出具有文化意涵的產品。 他們的作品曾多次參加展覽與比賽，獲得廣泛認可。&#xa;&#xa;" title="橘色月亮文化工作室" datetime="" longitude="" nodeid="node2"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label textalpha="1" width="180" enabled="1" height="20" borderalpha="1" wordwrap="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" background="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" delay="none" zoomout="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomspeed="2" zoomafterinfov="140" zoomfov="40" type="crossdissolve" zoomin="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboard="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" speedwheel="1" simulatemass="1" lockedwheel="0" sensitivity="8" hideabout="0" contextvr="1" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" flat="1" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" height="1024" levelbias="0.400" cylinder="1" levelbiashidpi="1.000" levelingroll="0">
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="140"/>
+    </view>
+    <userdata tags="" customnodeid="" comment="" info="" author="" heading="0" source="" latitude="" copyright="" description="洪啟榮老師透過漆藝將排灣族生活美感的精神再次帶回到日常生活之中。採取對環境最友善的態度，「依時而作」的精神，融入自然工藝、漆作、細木器皿追求著當代排灣的線條，展現文化的優雅與尊貴。&#xa;&#xa;橘色月亮文化工作室主要使用木材、石材、金屬、皮革、生漆等自然素材，創作出結合傳統與現代設計的生活用品，如木製器皿、家具、飾品等。在製作過程中，遵循自然循環的法則，依時而作，充分利用材料，減少浪費。&#xa;&#xa;此外，工作室積極推廣部落工藝教育，透過成立工藝教室，傳承家族圖紋和傳統技藝，並與設計師合作，將傳統元素融入現代設計，開發出具有文化意涵的產品。 他們的作品曾多次參加展覽與比賽，獲得廣泛認可。&#xa;&#xa;" title="橘色月亮文化工作室" datetime="" longitude="" nodeid="node4"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label textalpha="1" width="180" enabled="1" height="20" borderalpha="1" wordwrap="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" background="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" delay="none" zoomout="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomspeed="2" zoomafterinfov="140" zoomfov="40" type="crossdissolve" zoomin="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboard="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" speedwheel="1" simulatemass="1" lockedwheel="0" sensitivity="8" hideabout="0" contextvr="1" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" description="洪啟榮老師透過漆藝將排灣族生活美感的精神再次帶回到日常生活之中。採取對環境最友善的態度，「依時而作」的精神，融入自然工藝、漆作、細木器皿追求著當代排灣的線條，展現文化的優雅與尊貴。&#xa;&#xa;橘色月亮文化工作室主要使用木材、石材、金屬、皮革、生漆等自然素材，創作出結合傳統與現代設計的生活用品，如木製器皿、家具、飾品等。在製作過程中，遵循自然循環的法則，依時而作，充分利用材料，減少浪費。&#xa;&#xa;此外，工作室積極推廣部落工藝教育，透過成立工藝教室，傳承家族圖紋和傳統技藝，並與設計師合作，將傳統元素融入現代設計，開發出具有文化意涵的產品。 他們的作品曾多次參加展覽與比賽，獲得廣泛認可。&#xa;&#xa;" tags="" title="橘色月亮文化工作室--洪啟榮" comment="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

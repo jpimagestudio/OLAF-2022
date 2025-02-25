@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.8" start="node1" hassounds="0" apprev="20986">
+  <panorama id="node1">
+    <input height="1024" levelbias="0.400" leveltilesize="510" levelingpitch="0" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1024" levelingroll="0" cylinder="1" flat="1">
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="0" fovstereographic="330" pan="360" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata description="鄭梅玉，台灣知名的藺草編織工藝家，出生於高雄市，現居台東市。她原為國中生物教師，因對編織的熱愛，40歲時開始學習藺草編織，師從國寶級藺草編織大師林黃嬌。她的作品以立體編織見長，題材多元，涵蓋台灣各族群的生活風貌，曾多次獲得國內外工藝獎項的肯定。&#xa;&#xa;鄭梅玉草編工作室，專注於藺草編織工藝，融合台灣多元文化，創作出栩栩如生的立體編織作品，讓傳統技藝在現代生活中綻放新光彩。&#xa;&#xa;如欲親身體驗或欣賞其作品，工作室位於台東市志航路一段146巷9號，採預約制，聯絡電話：089-225347。 &#xa;" author="" source="" info="" customnodeid="" nodeid="node1" copyright="" datetime="" longitude="" latitude="" tags="-" heading="0" comment="" title="鄭梅玉"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" enabled="1" width="180" textalpha="1" textcolor="0x000000" border="1" borderradius="1" background="1"/>
+      <polystyle mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" enabled="1" zoomin="0" zoomspeed="2" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" contextvr="1" hideabout="0" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" rubberband="0" simulatemass="1" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="1024" levelbias="0.400" leveltilesize="510" levelingpitch="0" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1024" levelingroll="0" cylinder="1" flat="1">
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="0" fovstereographic="330" pan="360" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata description="鄭梅玉（1956年1月14日－），台灣編織工藝家，主攻藺草編織。她於高雄市出生，後來移居台東市。鄭梅玉原為國中生物教師，退休後全心投入藺草編織工藝，並成立「鄭梅玉草編工作室」。&#xa;&#xa;鄭梅玉草編工作室專注於藺草編織工藝，將台灣原住民文化與自然元素融入創作，打造獨特的手工藝品，讓傳統工藝在現代生活中綻放光彩。 " author="" source="" info="" customnodeid="" nodeid="node2" copyright="" datetime="" longitude="" latitude="" tags="-" heading="0" comment="" title=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" enabled="1" width="180" textalpha="1" textcolor="0x000000" border="1" borderradius="1" background="1"/>
+      <polystyle mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" enabled="1" zoomin="0" zoomspeed="2" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" contextvr="1" hideabout="0" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" rubberband="0" simulatemass="1" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="960" levelbias="0.400" leveltilesize="510" levelingpitch="0" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1280" levelingroll="0" cylinder="1" flat="1">
+      <level height="960" width="1280" predecode="0" preload="0"/>
+      <level height="480" width="640" predecode="0" preload="0"/>
+      <level height="240" width="320" predecode="1" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="0" fovstereographic="330" pan="360" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata description="鄭梅玉（1956年1月14日－），台灣編織工藝家，主攻藺草編織。她於高雄市出生，後來移居台東市。鄭梅玉原為國中生物教師，退休後全心投入藺草編織工藝，並成立「鄭梅玉草編工作室」。&#xa;&#xa;鄭梅玉草編工作室專注於藺草編織工藝，將台灣原住民文化與自然元素融入創作，打造獨特的手工藝品，讓傳統工藝在現代生活中綻放光彩。 " author="" source="" info="" customnodeid="" nodeid="node3" copyright="" datetime="" longitude="" latitude="" tags="-" heading="0" comment="" title=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" enabled="1" width="180" textalpha="1" textcolor="0x000000" border="1" borderradius="1" background="1"/>
+      <polystyle mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" enabled="1" zoomin="0" zoomspeed="2" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" contextvr="1" hideabout="0" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" rubberband="0" simulatemass="1" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="960" levelbias="0.400" leveltilesize="510" levelingpitch="0" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1280" levelingroll="0" cylinder="1" flat="1">
+      <level height="960" width="1280" predecode="0" preload="0"/>
+      <level height="480" width="640" predecode="0" preload="0"/>
+      <level height="240" width="320" predecode="1" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="0" fovstereographic="330" pan="360" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata description="鄭梅玉（1956年1月14日－），台灣編織工藝家，主攻藺草編織。她於高雄市出生，後來移居台東市。鄭梅玉原為國中生物教師，退休後全心投入藺草編織工藝，並成立「鄭梅玉草編工作室」。&#xa;&#xa;鄭梅玉草編工作室專注於藺草編織工藝，將台灣原住民文化與自然元素融入創作，打造獨特的手工藝品，讓傳統工藝在現代生活中綻放光彩。 " author="" source="" info="" customnodeid="" nodeid="node4" copyright="" datetime="" longitude="" latitude="" tags="-" heading="0" comment="" title=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" enabled="1" width="180" textalpha="1" textcolor="0x000000" border="1" borderradius="1" background="1"/>
+      <polystyle mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" enabled="1" zoomin="0" zoomspeed="2" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" contextvr="1" hideabout="0" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" rubberband="0" simulatemass="1" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="960" levelbias="0.400" leveltilesize="510" levelingpitch="0" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1280" levelingroll="0" cylinder="1" flat="1">
+      <level height="960" width="1280" predecode="0" preload="0"/>
+      <level height="480" width="640" predecode="0" preload="0"/>
+      <level height="240" width="320" predecode="1" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="0" fovstereographic="330" pan="360" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata description="鄭梅玉（1956年1月14日－），台灣編織工藝家，主攻藺草編織。她於高雄市出生，後來移居台東市。鄭梅玉原為國中生物教師，退休後全心投入藺草編織工藝，並成立「鄭梅玉草編工作室」。&#xa;&#xa;鄭梅玉草編工作室專注於藺草編織工藝，將台灣原住民文化與自然元素融入創作，打造獨特的手工藝品，讓傳統工藝在現代生活中綻放光彩。 " author="" source="" info="" customnodeid="" nodeid="node5" copyright="" datetime="" longitude="" latitude="" tags="-" heading="0" comment="" title="鄭梅玉草編工作室"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" enabled="1" width="180" textalpha="1" textcolor="0x000000" border="1" borderradius="1" background="1"/>
+      <polystyle mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomafterinfov="140" delay="none" blendtime="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" enabled="1" zoomin="0" zoomspeed="2" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" contextvr="1" hideabout="0" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" rubberband="0" simulatemass="1" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" tags="" author="" copyright="" title="鄭梅玉" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

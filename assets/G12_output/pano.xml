@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.8" apprev="20986" hassounds="0" start="node1">
+  <panorama id="node1">
+    <input flat="1" height="960" leveltilesize="510" width="1280" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" cylinder="1" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="960" preload="0" width="1280" predecode="0"/>
+      <level height="480" preload="0" width="640" predecode="0"/>
+      <level height="240" preload="1" width="320" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="500" pan="0" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" scaletofit="0" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" info="" title="太平洋珠寶飾務所" heading="0" author="" copyright="" datetime="" tags="-" longitude="" nodeid="node1" source="" description="太平洋珠寶·飾務所位於花蓮市吉安鄉南山五街20巷18號，提供多元化的珠寶相關服務，包括：&#xa;&#xa;- **共同工作空間**：為珠寶設計師與愛好者提供創作與交流的場所。&#xa;&#xa;- **工藝教學體驗**：舉辦各類珠寶手作課程，讓參與者親手製作飾品。&#xa;&#xa;- **品牌珠寶聯合藝廊**：展示與銷售多位珠寶設計師的作品，提供多樣化的選擇。&#xa;&#xa;- **珠寶飾品維修**：提供專業的珠寶維修與保養服務。&#xa;" comment="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundalpha="1" width="180" bordercolor="0x000000" border="1" borderradius="1" enabled="1" wordwrap="1" borderalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" zoomafterinfov="140" enabled="1" zoomfov="40" blendtime="1" type="crossdissolve" softedge="0" delay="none" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" contextfullscreen="1" invertwheel="0" contextvr="1" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" hideabout="0" simulatemass="1" sensitivity="8" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input flat="1" height="960" leveltilesize="510" width="1280" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" cylinder="1" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="960" preload="0" width="1280" predecode="0"/>
+      <level height="480" preload="0" width="640" predecode="0"/>
+      <level height="240" preload="1" width="320" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="500" pan="0" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" scaletofit="0" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" info="" title="太平洋珠寶飾務所" heading="0" author="" copyright="" datetime="" tags="-" longitude="" nodeid="node2" source="" description="太平洋珠寶·飾務所位於花蓮市吉安鄉南山五街20巷18號，提供多元化的珠寶相關服務，包括：&#xa;&#xa;- **共同工作空間**：為珠寶設計師與愛好者提供創作與交流的場所。&#xa;&#xa;- **工藝教學體驗**：舉辦各類珠寶手作課程，讓參與者親手製作飾品。&#xa;&#xa;- **品牌珠寶聯合藝廊**：展示與銷售多位珠寶設計師的作品，提供多樣化的選擇。&#xa;&#xa;- **珠寶飾品維修**：提供專業的珠寶維修與保養服務。&#xa;" comment="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundalpha="1" width="180" bordercolor="0x000000" border="1" borderradius="1" enabled="1" wordwrap="1" borderalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" zoomafterinfov="140" enabled="1" zoomfov="40" blendtime="1" type="crossdissolve" softedge="0" delay="none" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" contextfullscreen="1" invertwheel="0" contextvr="1" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" hideabout="0" simulatemass="1" sensitivity="8" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input flat="1" height="960" leveltilesize="510" width="1280" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" cylinder="1" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="960" preload="0" width="1280" predecode="0"/>
+      <level height="480" preload="0" width="640" predecode="0"/>
+      <level height="240" preload="1" width="320" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="500" pan="0" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" scaletofit="0" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" info="" title="太平洋珠寶飾務所" heading="0" author="" copyright="" datetime="" tags="-" longitude="" nodeid="node3" source="" description="太平洋珠寶·飾務所位於花蓮市吉安鄉南山五街20巷18號，提供多元化的珠寶相關服務，包括：&#xa;&#xa;- **共同工作空間**：為珠寶設計師與愛好者提供創作與交流的場所。&#xa;&#xa;- **工藝教學體驗**：舉辦各類珠寶手作課程，讓參與者親手製作飾品。&#xa;&#xa;- **品牌珠寶聯合藝廊**：展示與銷售多位珠寶設計師的作品，提供多樣化的選擇。&#xa;&#xa;- **珠寶飾品維修**：提供專業的珠寶維修與保養服務。&#xa;" comment="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundalpha="1" width="180" bordercolor="0x000000" border="1" borderradius="1" enabled="1" wordwrap="1" borderalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" zoomafterinfov="140" enabled="1" zoomfov="40" blendtime="1" type="crossdissolve" softedge="0" delay="none" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" contextfullscreen="1" invertwheel="0" contextvr="1" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" hideabout="0" simulatemass="1" sensitivity="8" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input flat="1" height="960" leveltilesize="510" width="1280" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" cylinder="1" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="960" preload="0" width="1280" predecode="0"/>
+      <level height="480" preload="0" width="640" predecode="0"/>
+      <level height="240" preload="1" width="320" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="500" pan="0" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" scaletofit="0" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" info="" title="太平洋珠寶飾務所" heading="0" author="" copyright="" datetime="" tags="-" longitude="" nodeid="node4" source="" description="太平洋珠寶·飾務所位於花蓮市吉安鄉南山五街20巷18號，提供多元化的珠寶相關服務，包括：&#xa;&#xa;- **共同工作空間**：為珠寶設計師與愛好者提供創作與交流的場所。&#xa;&#xa;- **工藝教學體驗**：舉辦各類珠寶手作課程，讓參與者親手製作飾品。&#xa;&#xa;- **品牌珠寶聯合藝廊**：展示與銷售多位珠寶設計師的作品，提供多樣化的選擇。&#xa;&#xa;- **珠寶飾品維修**：提供專業的珠寶維修與保養服務。&#xa;" comment="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundalpha="1" width="180" bordercolor="0x000000" border="1" borderradius="1" enabled="1" wordwrap="1" borderalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" zoomafterinfov="140" enabled="1" zoomfov="40" blendtime="1" type="crossdissolve" softedge="0" delay="none" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" contextfullscreen="1" invertwheel="0" contextvr="1" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" hideabout="0" simulatemass="1" sensitivity="8" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input flat="1" height="1024" leveltilesize="510" width="1024" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" cylinder="1" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="500" pan="0" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" scaletofit="0" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" info="" title="太平洋珠寶飾務所" heading="0" author="" copyright="" datetime="" tags="-" longitude="" nodeid="node5" source="" description="太平洋珠寶·飾務所位於花蓮市吉安鄉南山五街20巷18號，提供多元化的珠寶相關服務，包括：&#xa;&#xa;- **共同工作空間**：為珠寶設計師與愛好者提供創作與交流的場所。&#xa;&#xa;- **工藝教學體驗**：舉辦各類珠寶手作課程，讓參與者親手製作飾品。&#xa;&#xa;- **品牌珠寶聯合藝廊**：展示與銷售多位珠寶設計師的作品，提供多樣化的選擇。&#xa;&#xa;- **珠寶飾品維修**：提供專業的珠寶維修與保養服務。&#xa;" comment="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundalpha="1" width="180" bordercolor="0x000000" border="1" borderradius="1" enabled="1" wordwrap="1" borderalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" zoomafterinfov="140" enabled="1" zoomfov="40" blendtime="1" type="crossdissolve" softedge="0" delay="none" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" contextfullscreen="1" invertwheel="0" contextvr="1" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" hideabout="0" simulatemass="1" sensitivity="8" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input flat="1" height="960" leveltilesize="510" width="1280" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" cylinder="1" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="960" preload="0" width="1280" predecode="0"/>
+      <level height="480" preload="0" width="640" predecode="0"/>
+      <level height="240" preload="1" width="320" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="500" pan="0" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" scaletofit="0" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" info="" title="太平洋珠寶飾務所" heading="0" author="" copyright="" datetime="" tags="-" longitude="" nodeid="node6" source="" description="太平洋珠寶·飾務所位於花蓮市吉安鄉南山五街20巷18號，提供多元化的珠寶相關服務，包括：&#xa;&#xa;- **共同工作空間**：為珠寶設計師與愛好者提供創作與交流的場所。&#xa;&#xa;- **工藝教學體驗**：舉辦各類珠寶手作課程，讓參與者親手製作飾品。&#xa;&#xa;- **品牌珠寶聯合藝廊**：展示與銷售多位珠寶設計師的作品，提供多樣化的選擇。&#xa;&#xa;- **珠寶飾品維修**：提供專業的珠寶維修與保養服務。&#xa;" comment="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundalpha="1" width="180" bordercolor="0x000000" border="1" borderradius="1" enabled="1" wordwrap="1" borderalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" zoomafterinfov="140" enabled="1" zoomfov="40" blendtime="1" type="crossdissolve" softedge="0" delay="none" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" contextfullscreen="1" invertwheel="0" contextvr="1" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" hideabout="0" simulatemass="1" sensitivity="8" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="太平洋珠寶飾務所" description="" author="" comment="" copyright="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

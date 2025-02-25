@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" hassounds="0" apprev="20986" appversion="7.1.8">
+  <panorama id="node1">
+    <input overlap="1" flat="1" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1280" leveltilesize="510" height="960" levelbias="0.400" cylinder="1" levelbiashidpi="1.000" levelingroll="0">
+      <level preload="0" predecode="0" width="1280" height="960"/>
+      <level preload="0" predecode="0" width="640" height="480"/>
+      <level preload="1" predecode="1" width="320" height="240"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="330" tilt="90" scaletofit="0" fovfisheye="360" pan="360" fov="140"/>
+    </view>
+    <userdata tags="_Maca" customnodeid="" comment="" info="" author="" heading="0" source="" latitude="" copyright="" description="Maca 嘛吒是由藝術家安君實（Pasulange Druluan）於2014年創立的品牌，專注於以漂流木和自然素材製作生活物件和藝術品。&#xa;&#xa;安君實，1983年出生於屏東縣霧台鄉好茶村的魯凱族部落，2009年因八八風災移居台東，開始以漂流木和自然素材進行創作。 &#xa;&#xa;Maca 嘛吒融合漂流木與自然素材，創作獨特的手工藝品，將自然之美融入日常生活。&#xa;" title="Maca 嘛吒" datetime="" longitude="" nodeid="node1"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label textalpha="1" width="180" enabled="1" height="20" borderalpha="1" wordwrap="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" background="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" delay="none" zoomout="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomspeed="2" zoomafterinfov="140" zoomfov="40" type="crossdissolve" zoomin="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboard="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" speedwheel="1" simulatemass="1" lockedwheel="0" sensitivity="8" hideabout="0" contextvr="1" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" flat="1" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1280" leveltilesize="510" height="960" levelbias="0.400" cylinder="1" levelbiashidpi="1.000" levelingroll="0">
+      <level preload="0" predecode="0" width="1280" height="960"/>
+      <level preload="0" predecode="0" width="640" height="480"/>
+      <level preload="1" predecode="1" width="320" height="240"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="330" tilt="90" scaletofit="0" fovfisheye="360" pan="360" fov="140"/>
+    </view>
+    <userdata tags="_Maca" customnodeid="" comment="" info="" author="" heading="0" source="" latitude="" copyright="" description="Maca 為魯凱族語，為「眼睛」的意思，是來自都蘭的魯凱族工藝家安君實（拔舒浪魯魯安）創立的藝術品牌，透過木頭與雙手，創作出原木傢飾，分享對生活的想像。作品皆以台灣漂流木手工製作。" title="Maca 嘛吒" datetime="" longitude="" nodeid="node2"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label textalpha="1" width="180" enabled="1" height="20" borderalpha="1" wordwrap="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" background="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" delay="none" zoomout="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomspeed="2" zoomafterinfov="140" zoomfov="40" type="crossdissolve" zoomin="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboard="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" speedwheel="1" simulatemass="1" lockedwheel="0" sensitivity="8" hideabout="0" contextvr="1" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" description="" tags="" title="Maca 嘛吒" comment="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

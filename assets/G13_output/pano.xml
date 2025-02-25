@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.8" start="node1" apprev="20986" hassounds="0">
+  <panorama id="node1">
+    <input flat="1" levelbiashidpi="1.000" width="1280" height="960" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" cylinder="1">
+      <level height="960" predecode="0" preload="0" width="1280"/>
+      <level height="480" predecode="0" preload="0" width="640"/>
+      <level height="240" predecode="1" preload="1" width="320"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="0" tilt="90" fovstereographic="330" fovfisheye="360" pan="360" fov="140"/>
+    </view>
+    <userdata title="陶錫工藝 楊蕙如、王邦珍" description="陶錫工藝由楊蕙如與王邦珍於花蓮創立，結合陶藝與錫工藝的特色，將原住民文化、當地自然元素及民間故事融入作品中。該品牌專注於手工製作，以精湛的技藝將傳統工藝與現代設計融合，創作出一系列具有文化與藝術價值的獨特產品。&#xa;&#xa;陶錫工藝將陶藝與錫工藝結合，創作具有文化底蘊的藝術品，傳承地方工藝，並邀請民眾參與手作體驗，探索傳統技藝的美好。" info="" datetime="" source="" tags="-" latitude="" author="" nodeid="node1" copyright="" comment="" longitude="" heading="0" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label borderalpha="1" borderradius="1" backgroundalpha="1" bordercolor="0x000000" border="1" width="180" height="20" textcolor="0x000000" background="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" zoomspeed="2" delay="none" zoomin="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" zoomoutpause="1"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" hideabout="0" lockedmouse="0" rubberband="0" contextvr="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" simulatemass="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboard="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <input flat="1" levelbiashidpi="1.000" width="1024" height="1024" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" cylinder="1">
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="0" tilt="90" fovstereographic="330" fovfisheye="360" pan="360" fov="140"/>
+    </view>
+    <userdata title="陶錫工藝 楊蕙如、王邦珍" description="陶錫工藝由楊蕙如與王邦珍於花蓮創立，結合陶藝與錫工藝的特色，將原住民文化、當地自然元素及民間故事融入作品中。該品牌專注於手工製作，以精湛的技藝將傳統工藝與現代設計融合，創作出一系列具有文化與藝術價值的獨特產品。&#xa;&#xa;陶錫工藝將陶藝與錫工藝結合，創作具有文化底蘊的藝術品，傳承地方工藝，並邀請民眾參與手作體驗，探索傳統技藝的美好。" info="" datetime="" source="" tags="-" latitude="" author="" nodeid="node2" copyright="" comment="" longitude="" heading="0" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label borderalpha="1" borderradius="1" backgroundalpha="1" bordercolor="0x000000" border="1" width="180" height="20" textcolor="0x000000" background="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" zoomspeed="2" delay="none" zoomin="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" zoomoutpause="1"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" hideabout="0" lockedmouse="0" rubberband="0" contextvr="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" simulatemass="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboard="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <input flat="1" levelbiashidpi="1.000" width="1024" height="1024" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" cylinder="1">
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="0" tilt="90" fovstereographic="330" fovfisheye="360" pan="360" fov="140"/>
+    </view>
+    <userdata title="陶錫工藝 楊蕙如、王邦珍" description="陶錫工藝由楊蕙如與王邦珍於花蓮創立，結合陶藝與錫工藝的特色，將原住民文化、當地自然元素及民間故事融入作品中。該品牌專注於手工製作，以精湛的技藝將傳統工藝與現代設計融合，創作出一系列具有文化與藝術價值的獨特產品。&#xa;&#xa;陶錫工藝將陶藝與錫工藝結合，創作具有文化底蘊的藝術品，傳承地方工藝，並邀請民眾參與手作體驗，探索傳統技藝的美好。" info="" datetime="" source="" tags="-" latitude="" author="" nodeid="node3" copyright="" comment="" longitude="" heading="0" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label borderalpha="1" borderradius="1" backgroundalpha="1" bordercolor="0x000000" border="1" width="180" height="20" textcolor="0x000000" background="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" zoomspeed="2" delay="none" zoomin="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" zoomoutpause="1"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" hideabout="0" lockedmouse="0" rubberband="0" contextvr="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" simulatemass="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboard="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <input flat="1" levelbiashidpi="1.000" width="1024" height="1024" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" cylinder="1">
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" pan="0" fov="500"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="0" tilt="90" fovstereographic="330" fovfisheye="360" pan="360" fov="140"/>
+    </view>
+    <userdata title="陶錫工藝 楊蕙如、王邦珍" description="陶錫工藝由楊蕙如與王邦珍於花蓮創立，結合陶藝與錫工藝的特色，將原住民文化、當地自然元素及民間故事融入作品中。該品牌專注於手工製作，以精湛的技藝將傳統工藝與現代設計融合，創作出一系列具有文化與藝術價值的獨特產品。&#xa;&#xa;陶錫工藝將陶藝與錫工藝結合，創作具有文化底蘊的藝術品，傳承地方工藝，並邀請民眾參與手作體驗，探索傳統技藝的美好。" info="" datetime="" source="" tags="-" latitude="" author="" nodeid="node4" copyright="" comment="" longitude="" heading="0" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label borderalpha="1" borderradius="1" backgroundalpha="1" bordercolor="0x000000" border="1" width="180" height="20" textcolor="0x000000" background="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" zoomspeed="2" delay="none" zoomin="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" zoomoutpause="1"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" hideabout="0" lockedmouse="0" rubberband="0" contextvr="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" simulatemass="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboard="0" sensitivity="8"/>
+  </panorama>
+  <masternode>
+    <userdata description="" title="陶錫工藝 楊蕙如、王邦珍" tags="" author="" copyright="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

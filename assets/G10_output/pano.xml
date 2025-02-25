@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="20986" hassounds="0" appversion="7.1.8">
+  <panorama id="node1">
+    <input levelingpitch="0" leveltilesize="510" flat="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1280" height="960" levelbiashidpi="1.000" cylinder="1" levelbias="0.400" overlap="1" levelingroll="0">
+      <level predecode="0" height="960" width="1280" preload="0"/>
+      <level predecode="0" height="480" width="640" preload="0"/>
+      <level predecode="1" height="240" width="320" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" fov="500" tilt="0"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="0" pan="360" fovfisheye="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata source="" latitude="" description="石山部落工坊位於臺東市富豐社區（阿美族語：Kakawasan），致力於傳承與發揚阿美族的傳統工藝。工坊的主要產品包括：&#xa;&#xa;- **月桃編織工藝**：利用月桃葉製作草帽、包包等手工藝品，展現部落的編織技術。&#xa;&#xa;- **注連繩御守**：以稻草編織的注連繩，具有祈福與守護的象徵意義。&#xa;&#xa;- **漂流木家具**：運用漂流木創作獨特的家具，融合自然元素與實用設計。&#xa;&#xa;此外，工坊提供手作體驗活動，讓遊客親自參與工藝製作，深入了解阿美族文化。&#xa;&#xa;由石山部落工坊成員發起成立合作社開始製作草繩，將月桃帽與注連繩工藝做了最美的呈現，也與在地微型工坊共享空間，豐富作品多樣性。" heading="0" nodeid="node1" copyright="" datetime="" customnodeid="" longitude="" title="石山部落工房" author="" tags="-" info="" comment=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderradius="1" background="1" enabled="1" backgroundalpha="1" wordwrap="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomfov="40" zoomout="0" zoomspeed="2" zoomafterinfov="140" blendtime="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" sensitivity="8" lockedkeyboard="0" rubberband="0" hideabout="0" contextprojections="0" contextvr="1" simulatemass="1" speedwheel="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" leveltilesize="510" flat="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1280" height="960" levelbiashidpi="1.000" cylinder="1" levelbias="0.400" overlap="1" levelingroll="0">
+      <level predecode="0" height="960" width="1280" preload="0"/>
+      <level predecode="0" height="480" width="640" preload="0"/>
+      <level predecode="1" height="240" width="320" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" fov="500" tilt="0"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="0" pan="360" fovfisheye="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata source="" latitude="" description="石山部落工坊位於臺東市富豐社區（阿美族語：Kakawasan），致力於傳承與發揚阿美族的傳統工藝。工坊的主要產品包括：&#xa;&#xa;- **月桃編織工藝**：利用月桃葉製作草帽、包包等手工藝品，展現部落的編織技術。&#xa;&#xa;- **注連繩御守**：以稻草編織的注連繩，具有祈福與守護的象徵意義。&#xa;&#xa;- **漂流木家具**：運用漂流木創作獨特的家具，融合自然元素與實用設計。&#xa;&#xa;此外，工坊提供手作體驗活動，讓遊客親自參與工藝製作，深入了解阿美族文化。&#xa;&#xa;由石山部落工坊成員發起成立合作社開始製作草繩，將月桃帽與注連繩工藝做了最美的呈現，也與在地微型工坊共享空間，豐富作品多樣性。" heading="0" nodeid="node2" copyright="" datetime="" customnodeid="" longitude="" title="石山部落工房" author="" tags="-" info="" comment=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderradius="1" background="1" enabled="1" backgroundalpha="1" wordwrap="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomfov="40" zoomout="0" zoomspeed="2" zoomafterinfov="140" blendtime="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" sensitivity="8" lockedkeyboard="0" rubberband="0" hideabout="0" contextprojections="0" contextvr="1" simulatemass="1" speedwheel="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" leveltilesize="510" flat="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1280" height="960" levelbiashidpi="1.000" cylinder="1" levelbias="0.400" overlap="1" levelingroll="0">
+      <level predecode="0" height="960" width="1280" preload="0"/>
+      <level predecode="0" height="480" width="640" preload="0"/>
+      <level predecode="1" height="240" width="320" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" fov="500" tilt="0"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="0" pan="360" fovfisheye="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata source="" latitude="" description="石山部落工坊位於臺東市富豐社區（阿美族語：Kakawasan），致力於傳承與發揚阿美族的傳統工藝。工坊的主要產品包括：&#xa;&#xa;- **月桃編織工藝**：利用月桃葉製作草帽、包包等手工藝品，展現部落的編織技術。&#xa;&#xa;- **注連繩御守**：以稻草編織的注連繩，具有祈福與守護的象徵意義。&#xa;&#xa;- **漂流木家具**：運用漂流木創作獨特的家具，融合自然元素與實用設計。&#xa;&#xa;此外，工坊提供手作體驗活動，讓遊客親自參與工藝製作，深入了解阿美族文化。&#xa;&#xa;由石山部落工坊成員發起成立合作社開始製作草繩，將月桃帽與注連繩工藝做了最美的呈現，也與在地微型工坊共享空間，豐富作品多樣性。" heading="0" nodeid="node3" copyright="" datetime="" customnodeid="" longitude="" title="石山部落工房" author="" tags="-" info="" comment=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderradius="1" background="1" enabled="1" backgroundalpha="1" wordwrap="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomfov="40" zoomout="0" zoomspeed="2" zoomafterinfov="140" blendtime="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" sensitivity="8" lockedkeyboard="0" rubberband="0" hideabout="0" contextprojections="0" contextvr="1" simulatemass="1" speedwheel="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" description="" title="石山部落工房" author="" tags="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
