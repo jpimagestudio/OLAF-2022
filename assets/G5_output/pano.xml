@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="20986" start="node1" appversion="7.1.8" hassounds="0">
+<tour appversion="7.1.8" hassounds="0" apprev="20986" start="node1">
   <panorama id="node1">
-    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1" leveltilesize="510" height="960" levelingpitch="0" overlap="1" levelingroll="0" width="1280" cylinder="1" levelbiashidpi="1.000" levelbias="0.400">
-      <level width="1280" height="960" preload="0" predecode="0"/>
-      <level width="640" height="480" preload="0" predecode="0"/>
-      <level width="320" height="240" preload="1" predecode="1"/>
+    <input height="960" width="1280" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" levelingroll="0" cylinder="1" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1">
+      <level height="960" width="1280" preload="0" predecode="0"/>
+      <level height="480" width="640" preload="0" predecode="0"/>
+      <level height="240" width="320" preload="1" predecode="1"/>
       <preview color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="2">
-      <start tilt="0" fov="500" pan="0"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max tilt="90" fov="140" pan="360" scaletofit="0" fovstereographic="330" fovfisheye="360"/>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" tilt="90" fov="140" scaletofit="0"/>
     </view>
-    <userdata copyright="" title="卡塔文化工作室 林秀慧" longitude="" nodeid="node1" author="" datetime="" info="" source="" description="卡塔文化工作室由林秀慧創立，致力於保存與傳承排灣族的傳統工藝與文化。工作室專注於製作琉璃珠飾品，這些珠子在排灣族文化中象徵著深厚的歷史與意涵。此外，卡塔文化工作室也出版了多本關於原住民工藝的書籍，如《月桃本事》、《部落書寫體──針路》和《山中的祖靈線》，記錄並傳承部落的工藝智慧。工作室位於台東市中興路二段191號，提供各式文化體驗活動，讓更多人了解並參與原住民的傳統工藝。&#xa;&#xa;卡塔文化工作室專注於製作承載排灣族文化意涵的琉璃珠飾品，並透過出版與體驗活動，傳承部落工藝智慧，讓傳統之美融入現代生活。 " customnodeid="" latitude="" comment="" heading="0" tags="-"/>
-    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
-      <label borderalpha="1" border="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+    <userdata title="卡塔文化工作室 林秀慧" description="卡塔文化工作室由林秀慧創立，致力於保存與傳承排灣族的傳統工藝與文化。工作室專注於製作琉璃珠飾品，這些珠子在排灣族文化中象徵著深厚的歷史與意涵。此外，卡塔文化工作室也出版了多本關於原住民工藝的書籍，如《月桃本事》、《部落書寫體──針路》和《山中的祖靈線》，記錄並傳承部落的工藝智慧。工作室位於台東市中興路二段191號，提供各式文化體驗活動，讓更多人了解並參與原住民的傳統工藝。&#xa;&#xa;卡塔文化工作室專注於製作承載排灣族文化意涵的琉璃珠飾品，並透過出版與體驗活動，傳承部落工藝智慧，讓傳統之美融入現代生活。 " tags="-" comment="" author="" heading="0" customnodeid="" nodeid="node1" source="" info="" latitude="" datetime="" longitude="" copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" height="20" width="180" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="40" delay="none" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" enabled="1" zoomout="0"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
-    <control contextfullscreen="1" contextprojections="0" invertwheel="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" sensitivity="8" lockedmouse="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0"/>
+    <transition zoomafteroutfov="40" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" blendtime="1" delay="none" zoomspeed="2" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" speedwheel="1" contextvr="1" hideabout="0" rubberband="0"/>
   </panorama>
   <panorama id="node2">
-    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1" leveltilesize="510" height="960" levelingpitch="0" overlap="1" levelingroll="0" width="1280" cylinder="1" levelbiashidpi="1.000" levelbias="0.400">
-      <level width="1280" height="960" preload="0" predecode="0"/>
-      <level width="640" height="480" preload="0" predecode="0"/>
-      <level width="320" height="240" preload="1" predecode="1"/>
+    <input height="960" width="1280" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" levelingroll="0" cylinder="1" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1">
+      <level height="960" width="1280" preload="0" predecode="0"/>
+      <level height="480" width="640" preload="0" predecode="0"/>
+      <level height="240" width="320" preload="1" predecode="1"/>
       <preview color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="2">
-      <start tilt="0" fov="500" pan="0"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max tilt="90" fov="140" pan="360" scaletofit="0" fovstereographic="330" fovfisheye="360"/>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" tilt="90" fov="140" scaletofit="0"/>
     </view>
-    <userdata copyright="" title="卡塔文化工作室 林秀慧" longitude="" nodeid="node2" author="" datetime="" info="" source="" description="卡塔文化工作室由林秀慧創立，致力於保存與傳承排灣族的傳統工藝與文化。工作室專注於製作琉璃珠飾品，這些珠子在排灣族文化中象徵著深厚的歷史與意涵。此外，卡塔文化工作室也出版了多本關於原住民工藝的書籍，如《月桃本事》、《部落書寫體──針路》和《山中的祖靈線》，記錄並傳承部落的工藝智慧。工作室位於台東市中興路二段191號，提供各式文化體驗活動，讓更多人了解並參與原住民的傳統工藝。&#xa;&#xa;卡塔文化工作室專注於製作承載排灣族文化意涵的琉璃珠飾品，並透過出版與體驗活動，傳承部落工藝智慧，讓傳統之美融入現代生活。 " customnodeid="" latitude="" comment="" heading="0" tags="-"/>
-    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
-      <label borderalpha="1" border="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+    <userdata title="卡塔文化工作室 林秀慧" description="卡塔文化工作室由林秀慧創立，致力於保存與傳承排灣族的傳統工藝與文化。工作室專注於製作琉璃珠飾品，這些珠子在排灣族文化中象徵著深厚的歷史與意涵。此外，卡塔文化工作室也出版了多本關於原住民工藝的書籍，如《月桃本事》、《部落書寫體──針路》和《山中的祖靈線》，記錄並傳承部落的工藝智慧。工作室位於台東市中興路二段191號，提供各式文化體驗活動，讓更多人了解並參與原住民的傳統工藝。&#xa;&#xa;卡塔文化工作室專注於製作承載排灣族文化意涵的琉璃珠飾品，並透過出版與體驗活動，傳承部落工藝智慧，讓傳統之美融入現代生活。 " tags="-" comment="" author="" heading="0" customnodeid="" nodeid="node2" source="" info="" latitude="" datetime="" longitude="" copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" height="20" width="180" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="40" delay="none" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" enabled="1" zoomout="0"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
-    <control contextfullscreen="1" contextprojections="0" invertwheel="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" sensitivity="8" lockedmouse="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0"/>
+    <transition zoomafteroutfov="40" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" blendtime="1" delay="none" zoomspeed="2" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" speedwheel="1" contextvr="1" hideabout="0" rubberband="0"/>
   </panorama>
   <panorama id="node3">
-    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1" leveltilesize="510" height="960" levelingpitch="0" overlap="1" levelingroll="0" width="1280" cylinder="1" levelbiashidpi="1.000" levelbias="0.400">
-      <level width="1280" height="960" preload="0" predecode="0"/>
-      <level width="640" height="480" preload="0" predecode="0"/>
-      <level width="320" height="240" preload="1" predecode="1"/>
+    <input height="960" width="1280" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" levelingroll="0" cylinder="1" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1">
+      <level height="960" width="1280" preload="0" predecode="0"/>
+      <level height="480" width="640" preload="0" predecode="0"/>
+      <level height="240" width="320" preload="1" predecode="1"/>
       <preview color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="2">
-      <start tilt="0" fov="500" pan="0"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max tilt="90" fov="140" pan="360" scaletofit="0" fovstereographic="330" fovfisheye="360"/>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" tilt="90" fov="140" scaletofit="0"/>
     </view>
-    <userdata copyright="" title="卡塔文化工作室 林秀慧" longitude="" nodeid="node3" author="" datetime="" info="" source="" description="卡塔文化工作室由林秀慧創立，致力於保存與傳承排灣族的傳統工藝與文化。工作室專注於製作琉璃珠飾品，這些珠子在排灣族文化中象徵著深厚的歷史與意涵。此外，卡塔文化工作室也出版了多本關於原住民工藝的書籍，如《月桃本事》、《部落書寫體──針路》和《山中的祖靈線》，記錄並傳承部落的工藝智慧。工作室位於台東市中興路二段191號，提供各式文化體驗活動，讓更多人了解並參與原住民的傳統工藝。&#xa;&#xa;卡塔文化工作室專注於製作承載排灣族文化意涵的琉璃珠飾品，並透過出版與體驗活動，傳承部落工藝智慧，讓傳統之美融入現代生活。 " customnodeid="" latitude="" comment="" heading="0" tags="-"/>
-    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
-      <label borderalpha="1" border="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+    <userdata title="卡塔文化工作室 林秀慧" description="卡塔文化工作室由林秀慧創立，致力於保存與傳承排灣族的傳統工藝與文化。工作室專注於製作琉璃珠飾品，這些珠子在排灣族文化中象徵著深厚的歷史與意涵。此外，卡塔文化工作室也出版了多本關於原住民工藝的書籍，如《月桃本事》、《部落書寫體──針路》和《山中的祖靈線》，記錄並傳承部落的工藝智慧。工作室位於台東市中興路二段191號，提供各式文化體驗活動，讓更多人了解並參與原住民的傳統工藝。&#xa;&#xa;卡塔文化工作室專注於製作承載排灣族文化意涵的琉璃珠飾品，並透過出版與體驗活動，傳承部落工藝智慧，讓傳統之美融入現代生活。 " tags="-" comment="" author="" heading="0" customnodeid="" nodeid="node3" source="" info="" latitude="" datetime="" longitude="" copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" height="20" width="180" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="40" delay="none" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" enabled="1" zoomout="0"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
-    <control contextfullscreen="1" contextprojections="0" invertwheel="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" sensitivity="8" lockedmouse="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0"/>
+    <transition zoomafteroutfov="40" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" blendtime="1" delay="none" zoomspeed="2" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" speedwheel="1" contextvr="1" hideabout="0" rubberband="0"/>
   </panorama>
   <masternode>
-    <userdata copyright="" title="卡塔文化工作室 林秀慧" description="" comment="" author="" tags=""/>
+    <userdata title="卡塔文化工作室 林秀慧" author="" description="" tags="" comment="" copyright=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>

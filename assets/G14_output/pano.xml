@@ -1,161 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour hassounds="0" start="node1" appversion="7.1.8" apprev="20986">
+<tour appversion="7.1.8" hassounds="0" apprev="20986" start="node1">
   <panorama id="node1">
-    <input overlap="1" levelingpitch="0" width="1280" levelbiashidpi="1.000" cylinder="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" flat="1" levelbias="0.400" height="960" leveltilesize="510">
-      <level preload="0" width="1280" height="960" predecode="0"/>
-      <level preload="0" width="640" height="480" predecode="0"/>
-      <level preload="1" width="320" height="240" predecode="1"/>
+    <input height="960" width="1280" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" levelingroll="0" cylinder="1" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1">
+      <level height="960" width="1280" preload="0" predecode="0"/>
+      <level height="480" width="640" preload="0" predecode="0"/>
+      <level height="240" width="320" preload="1" predecode="1"/>
       <preview color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="500" pan="0" tilt="0"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="0"/>
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" tilt="90" fov="140" scaletofit="0"/>
     </view>
-    <userdata latitude="" longitude="" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" copyright="" comment="" tags="-" title="陶禧藝術 翁淑美" author="" datetime="" info="" source="" heading="0" customnodeid="" nodeid="node1"/>
-    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
-      <label backgroundalpha="1" width="180" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" height="20" border="1"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+    <userdata title="陶禧藝術 翁淑美" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" tags="-" comment="" author="" heading="0" customnodeid="" nodeid="node1" source="" info="" latitude="" datetime="" longitude="" copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" height="20" width="180" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" zoomout="0" softedge="0" enabled="1" zoomspeed="2" delay="none" zoomin="0" type="crossdissolve" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomafteroutfov="40" zoomafterinfov="140"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" contextvr="1" rubberband="0" lockedkeyboardzoom="0" zoomcentercursor="1" invertcontrol="1" lockedmouse="0" sensitivity="8" invertwheel="0" lockedkeyboard="0"/>
+    <transition zoomafteroutfov="40" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" blendtime="1" delay="none" zoomspeed="2" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" speedwheel="1" contextvr="1" hideabout="0" rubberband="0"/>
   </panorama>
   <panorama id="node2">
-    <input overlap="1" levelingpitch="0" width="1280" levelbiashidpi="1.000" cylinder="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" flat="1" levelbias="0.400" height="960" leveltilesize="510">
-      <level preload="0" width="1280" height="960" predecode="0"/>
-      <level preload="0" width="640" height="480" predecode="0"/>
-      <level preload="1" width="320" height="240" predecode="1"/>
+    <input height="960" width="1280" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" levelingroll="0" cylinder="1" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1">
+      <level height="960" width="1280" preload="0" predecode="0"/>
+      <level height="480" width="640" preload="0" predecode="0"/>
+      <level height="240" width="320" preload="1" predecode="1"/>
       <preview color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="500" pan="0" tilt="0"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="0"/>
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" tilt="90" fov="140" scaletofit="0"/>
     </view>
-    <userdata latitude="" longitude="" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" copyright="" comment="" tags="-" title="陶禧藝術 翁淑美" author="" datetime="" info="" source="" heading="0" customnodeid="" nodeid="node2"/>
-    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
-      <label backgroundalpha="1" width="180" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" height="20" border="1"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+    <userdata title="陶禧藝術 翁淑美" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" tags="-" comment="" author="" heading="0" customnodeid="" nodeid="node2" source="" info="" latitude="" datetime="" longitude="" copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" height="20" width="180" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" zoomout="0" softedge="0" enabled="1" zoomspeed="2" delay="none" zoomin="0" type="crossdissolve" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomafteroutfov="40" zoomafterinfov="140"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" contextvr="1" rubberband="0" lockedkeyboardzoom="0" zoomcentercursor="1" invertcontrol="1" lockedmouse="0" sensitivity="8" invertwheel="0" lockedkeyboard="0"/>
+    <transition zoomafteroutfov="40" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" blendtime="1" delay="none" zoomspeed="2" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" speedwheel="1" contextvr="1" hideabout="0" rubberband="0"/>
   </panorama>
   <panorama id="node3">
-    <input overlap="1" levelingpitch="0" width="1280" levelbiashidpi="1.000" cylinder="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" flat="1" levelbias="0.400" height="960" leveltilesize="510">
-      <level preload="0" width="1280" height="960" predecode="0"/>
-      <level preload="0" width="640" height="480" predecode="0"/>
-      <level preload="1" width="320" height="240" predecode="1"/>
+    <input height="960" width="1280" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" levelingroll="0" cylinder="1" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1">
+      <level height="960" width="1280" preload="0" predecode="0"/>
+      <level height="480" width="640" preload="0" predecode="0"/>
+      <level height="240" width="320" preload="1" predecode="1"/>
       <preview color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="500" pan="0" tilt="0"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="0"/>
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" tilt="90" fov="140" scaletofit="0"/>
     </view>
-    <userdata latitude="" longitude="" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" copyright="" comment="" tags="-" title="陶禧藝術 翁淑美" author="" datetime="" info="" source="" heading="0" customnodeid="" nodeid="node3"/>
-    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
-      <label backgroundalpha="1" width="180" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" height="20" border="1"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+    <userdata title="陶禧藝術 翁淑美" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" tags="-" comment="" author="" heading="0" customnodeid="" nodeid="node3" source="" info="" latitude="" datetime="" longitude="" copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" height="20" width="180" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" zoomout="0" softedge="0" enabled="1" zoomspeed="2" delay="none" zoomin="0" type="crossdissolve" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomafteroutfov="40" zoomafterinfov="140"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" contextvr="1" rubberband="0" lockedkeyboardzoom="0" zoomcentercursor="1" invertcontrol="1" lockedmouse="0" sensitivity="8" invertwheel="0" lockedkeyboard="0"/>
+    <transition zoomafteroutfov="40" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" blendtime="1" delay="none" zoomspeed="2" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" speedwheel="1" contextvr="1" hideabout="0" rubberband="0"/>
   </panorama>
   <panorama id="node4">
-    <input overlap="1" levelingpitch="0" width="1280" levelbiashidpi="1.000" cylinder="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" flat="1" levelbias="0.400" height="960" leveltilesize="510">
-      <level preload="0" width="1280" height="960" predecode="0"/>
-      <level preload="0" width="640" height="480" predecode="0"/>
-      <level preload="1" width="320" height="240" predecode="1"/>
+    <input height="960" width="1280" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" levelingroll="0" cylinder="1" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1">
+      <level height="960" width="1280" preload="0" predecode="0"/>
+      <level height="480" width="640" preload="0" predecode="0"/>
+      <level height="240" width="320" preload="1" predecode="1"/>
       <preview color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="500" pan="0" tilt="0"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="0"/>
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" tilt="90" fov="140" scaletofit="0"/>
     </view>
-    <userdata latitude="" longitude="" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" copyright="" comment="" tags="-" title="陶禧藝術 翁淑美" author="" datetime="" info="" source="" heading="0" customnodeid="" nodeid="node4"/>
-    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
-      <label backgroundalpha="1" width="180" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" height="20" border="1"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+    <userdata title="陶禧藝術 翁淑美" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" tags="-" comment="" author="" heading="0" customnodeid="" nodeid="node4" source="" info="" latitude="" datetime="" longitude="" copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" height="20" width="180" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" zoomout="0" softedge="0" enabled="1" zoomspeed="2" delay="none" zoomin="0" type="crossdissolve" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomafteroutfov="40" zoomafterinfov="140"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" contextvr="1" rubberband="0" lockedkeyboardzoom="0" zoomcentercursor="1" invertcontrol="1" lockedmouse="0" sensitivity="8" invertwheel="0" lockedkeyboard="0"/>
+    <transition zoomafteroutfov="40" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" blendtime="1" delay="none" zoomspeed="2" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" speedwheel="1" contextvr="1" hideabout="0" rubberband="0"/>
   </panorama>
   <panorama id="node5">
-    <input overlap="1" levelingpitch="0" width="1024" levelbiashidpi="1.000" cylinder="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" flat="1" levelbias="0.400" height="1024" leveltilesize="510">
-      <level preload="0" width="1024" height="1024" predecode="0"/>
-      <level preload="0" width="512" height="512" predecode="0"/>
-      <level preload="1" width="256" height="256" predecode="1"/>
+    <input height="1024" width="1024" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" levelingroll="0" cylinder="1" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1">
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
       <preview color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="500" pan="0" tilt="0"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="0"/>
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" tilt="90" fov="140" scaletofit="0"/>
     </view>
-    <userdata latitude="" longitude="" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" copyright="" comment="" tags="-" title="陶禧藝術 翁淑美" author="" datetime="" info="" source="" heading="0" customnodeid="" nodeid="node5"/>
-    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
-      <label backgroundalpha="1" width="180" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" height="20" border="1"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+    <userdata title="陶禧藝術 翁淑美" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" tags="-" comment="" author="" heading="0" customnodeid="" nodeid="node5" source="" info="" latitude="" datetime="" longitude="" copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" height="20" width="180" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" zoomout="0" softedge="0" enabled="1" zoomspeed="2" delay="none" zoomin="0" type="crossdissolve" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomafteroutfov="40" zoomafterinfov="140"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" contextvr="1" rubberband="0" lockedkeyboardzoom="0" zoomcentercursor="1" invertcontrol="1" lockedmouse="0" sensitivity="8" invertwheel="0" lockedkeyboard="0"/>
+    <transition zoomafteroutfov="40" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" blendtime="1" delay="none" zoomspeed="2" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" speedwheel="1" contextvr="1" hideabout="0" rubberband="0"/>
   </panorama>
   <panorama id="node6">
-    <input overlap="1" levelingpitch="0" width="1280" levelbiashidpi="1.000" cylinder="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" flat="1" levelbias="0.400" height="960" leveltilesize="510">
-      <level preload="0" width="1280" height="960" predecode="0"/>
-      <level preload="0" width="640" height="480" predecode="0"/>
-      <level preload="1" width="320" height="240" predecode="1"/>
+    <input height="960" width="1280" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" levelingroll="0" cylinder="1" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1">
+      <level height="960" width="1280" preload="0" predecode="0"/>
+      <level height="480" width="640" preload="0" predecode="0"/>
+      <level height="240" width="320" preload="1" predecode="1"/>
       <preview color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="500" pan="0" tilt="0"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="0"/>
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" tilt="90" fov="140" scaletofit="0"/>
     </view>
-    <userdata latitude="" longitude="" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" copyright="" comment="" tags="-" title="陶禧藝術 翁淑美" author="" datetime="" info="" source="" heading="0" customnodeid="" nodeid="node6"/>
-    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
-      <label backgroundalpha="1" width="180" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" height="20" border="1"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+    <userdata title="陶禧藝術 翁淑美" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" tags="-" comment="" author="" heading="0" customnodeid="" nodeid="node6" source="" info="" latitude="" datetime="" longitude="" copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" height="20" width="180" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" zoomout="0" softedge="0" enabled="1" zoomspeed="2" delay="none" zoomin="0" type="crossdissolve" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomafteroutfov="40" zoomafterinfov="140"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" contextvr="1" rubberband="0" lockedkeyboardzoom="0" zoomcentercursor="1" invertcontrol="1" lockedmouse="0" sensitivity="8" invertwheel="0" lockedkeyboard="0"/>
+    <transition zoomafteroutfov="40" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" blendtime="1" delay="none" zoomspeed="2" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" speedwheel="1" contextvr="1" hideabout="0" rubberband="0"/>
   </panorama>
   <panorama id="node7">
-    <input overlap="1" levelingpitch="0" width="1280" levelbiashidpi="1.000" cylinder="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" flat="1" levelbias="0.400" height="960" leveltilesize="510">
-      <level preload="0" width="1280" height="960" predecode="0"/>
-      <level preload="0" width="640" height="480" predecode="0"/>
-      <level preload="1" width="320" height="240" predecode="1"/>
+    <input height="960" width="1280" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" levelingroll="0" cylinder="1" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1">
+      <level height="960" width="1280" preload="0" predecode="0"/>
+      <level height="480" width="640" preload="0" predecode="0"/>
+      <level height="240" width="320" preload="1" predecode="1"/>
       <preview color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="500" pan="0" tilt="0"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="0"/>
+      <start pan="0" tilt="0" fov="500"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" tilt="90" fov="140" scaletofit="0"/>
     </view>
-    <userdata latitude="" longitude="" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" copyright="" comment="" tags="-" title="陶禧藝術 翁淑美" author="" datetime="" info="" source="" heading="0" customnodeid="" nodeid="node7"/>
-    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
-      <label backgroundalpha="1" width="180" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" wordwrap="1" textalpha="1" height="20" border="1"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+    <userdata title="陶禧藝術 翁淑美" description="陶禧藝術由翁淑美創立，專注於手工陶藝的創作與教學。翁老師秉持傳統製陶技藝，並不斷進行創新與突破，將作品設計成兼具藝術性與實用性的陶器。她的陶藝作品常融入東方哲學與自然元素，手感細膩，色彩自然，從茶具、花器到家居裝飾，都展現出簡潔、優雅的設計風格。每一件作品都承載著匠人精神和對美好生活的追求。&#xa;&#xa;陶禧藝術專注於手工陶藝，將東方哲學與自然元素融入創作，打造出獨特的陶器作品，讓藝術之美融入日常生活。" tags="-" comment="" author="" heading="0" customnodeid="" nodeid="node7" source="" info="" latitude="" datetime="" longitude="" copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" height="20" width="180" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" zoomout="0" softedge="0" enabled="1" zoomspeed="2" delay="none" zoomin="0" type="crossdissolve" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomafteroutfov="40" zoomafterinfov="140"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" contextvr="1" rubberband="0" lockedkeyboardzoom="0" zoomcentercursor="1" invertcontrol="1" lockedmouse="0" sensitivity="8" invertwheel="0" lockedkeyboard="0"/>
+    <transition zoomafteroutfov="40" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" zoomfov="40" zoomout="0" zoomafterinfov="140" blendtime="1" delay="none" zoomspeed="2" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" speedwheel="1" contextvr="1" hideabout="0" rubberband="0"/>
   </panorama>
   <masternode>
-    <userdata description="" copyright="" comment="" tags="" title="陶禧藝術 翁淑美" author=""/>
+    <userdata title="陶禧藝術 翁淑美" author="" description="" tags="" comment="" copyright=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
